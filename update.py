@@ -48,9 +48,9 @@ def main():
 
     lines += [
         "",
-        f"> 数据来源：本仓库 titles.txt（共 {len(titles)} 条） · 每日自动随机抽取",
+        f"> 数据来源：https://kkpp.us（支持美区、港区、日区，自动发货）",
         "",
-        "想要稳定独享账号请点击下方购买按钮。",
+        "想要稳定独享账号到这里https://kkpp.us。",
     ]
 
     new_section = "\n".join(lines)
