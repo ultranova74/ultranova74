@@ -1,16 +1,86 @@
-## Hi there 👋
+# 美区 Apple ID 免费共享｜每日更新外区账号｜小火箭 Shadowrocket 下载专用
 
-<!--
-**ultranova74/ultranova74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 本仓库长期维护美区、港区、日区、台区、韩区免费 Apple ID 共享资源，每日自动更新。专为下载 Shadowrocket（小火箭）、Quantumult X、TikTok、ChatGPT 等外区应用设计。  
+> **严禁在「设置」中登录 iCloud，否则有锁机风险！**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 推荐购买稳定独享外区 Apple ID（已购小火箭）
+
+<p align="center">
+  <a href="https://kkpp.us/">
+    <img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E8%B4%AD%E4%B9%B0-%E7%A8%B3%E5%AE%9A%E7%8B%AC%E4%BA%AB%E5%A4%96%E5%8C%BAApple%20ID-ff2d55?style=for-the-badge&logo=apple&logoColor=white&labelColor=111111" alt="立即购买外区Apple ID" height="48">
+  </a>
+</p>
+
+<p align="center">
+  <b>点击上方红色按钮即可前往购买</b><br>
+  支持美区 / 港区 / 日区 · 自动发货 · 稳定独享<br>
+  购买地址：<a href="https://kkpp.us/">https://kkpp.us/</a>
+</p>
+
+---
+
+<!-- DAILY:START -->
+这里会被自动覆盖
+<!-- DAILY:END -->
+
+---
+
+## ⚠️ 使用前必读（非常重要）
+
+1. **只能在 App Store 登录**  
+   打开「App Store」→ 点击右上角头像 → 退出当前账号 → 用共享账号登录。  
+   **绝对不要在「设置」顶部用共享账号登录整台手机**（会绑定 iCloud 和「查找我的 iPhone」，有锁机风险）。
+
+2. **下载完立即退出**  
+   下载好需要的 App 后，马上在 App Store 退出共享账号，换回自己的 Apple ID。
+
+3. **登录时安全提示处理**  
+   出现「Apple ID 安全」提示时，请点击「其他选项」→「不升级」，不要开启双重认证。
+
+4. **禁止操作**  
+   - 不要修改密码  
+   - 不要绑定手机号  
+   - 不要添加付款方式  
+   - 不要开启双重认证  
+   - 不要在设置里登录
+
+## 📱 正确使用三步曲
+
+1. App Store 退出自己的账号  
+2. 登录共享账号并搜索下载需要的 App（如 Shadowrocket）  
+3. 下载完成后立即退出，换回自己的账号
+
+## 为什么推荐本仓库？
+
+- 每日北京时间 0:00 自动更新精选账号
+- 覆盖美区、港区、日区、台区、韩区多个地区
+- 详细安全使用说明，降低锁机风险
+- 完全免费查看，无需注册
+- 长期维护，内容结构化，利于搜索引擎收录
+
+## 常见问题 FAQ
+
+**Q：为什么登录后提示账号被锁定？**  
+A：共享账号使用人数多，容易触发风控，直接换下一个账号即可。
+
+**Q：下载的 App 以后怎么更新？**  
+A：需要重新登录当时下载用的共享账号才能更新，或者删除后用自己账号重新下载。
+
+**Q：可以长期使用共享账号吗？**  
+A：不建议。共享账号仅适合临时下载，长期使用请购买独享账号。
+
+**Q：哪里可以买到稳定的独享外区 Apple ID？**  
+A：推荐前往 → [https://kkpp.us/](https://kkpp.us/)（支持美区、港区、日区，自动发货）
+
+## 相关关键词
+
+美区 Apple ID、免费共享 Apple ID、小火箭账号、Shadowrocket 下载、外区 Apple ID、港区账号、日区账号、免费美区 ID、App Store 外区下载、iOS 外服账号
+
+---
+
+**本仓库每日自动更新，欢迎 Star 收藏！**  
+更新频率：每天 | 语言：中文 | 适合百度、搜狗、360 等搜索引擎收录
+
+购买稳定独享账号请点击：[https://kkpp.us/](https://kkpp.us/)
