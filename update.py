@@ -48,9 +48,7 @@ def main():
 
     lines += [
         "",
-        f"> 数据来源：https://kkpp.us（支持美区、港区、日区，自动发货）",
-        "",
-        "想要稳定独享账号到这里https://kkpp.us。",
+        f"> 数据来源（支持美区、港区、日区，自动发货）：https://kkpp.us",
     ]
 
     new_section = "\n".join(lines)
